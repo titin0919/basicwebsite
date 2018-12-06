@@ -1,0 +1,13 @@
+{
+  "name": "seccion1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Christin",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
